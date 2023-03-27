@@ -1,0 +1,22 @@
+{
+  "name": "taildwind",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairoramos18/Taildwind.git"
+  },
+  "author": "jairo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairoramos18/Taildwind/issues"
+  },
+  "homepage": "https://github.com/jairoramos18/Taildwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
